@@ -10,13 +10,13 @@ This directory contains the main code notebooks used for the development and ana
 Because GitHub sometimes has trouble previewing interactive charts and widgets (displaying the *Invalid Notebook* error), we recommend opening the file directly in the cloud:
 
 
-*  **IPCC corpora:** 
-   [AQUÍ para abrir en Google Colab](https://google.com)
+* 📊 <b>IPCC corpora:</b> 
+  <a href="https://google.com" target="_blank">CLIC AQUÍ PARA ABRIR EN GOOGLE COLAB</a>
 
-*  **Corpora of UNDRR added:** 
-  [AQUÍ para abrir en Google Colab](https://google.com)
+* 📈 <b>Corpora of UNDRR added:</b> 
+  <a href="https://google.com" target="_blank"> CLIC AQUÍ PARA ABRIR EN GOOGLE COLAB</a>
 
-*  **Climate adaption corpora fusioned:** 
-  [AQUÍ para abrir en Google Colab](https://google.com)
+* 📑 <b>Climate adaption corpora fusioned:</b> 
+  <a href="https://google.com" target="_blank"> CLIC AQUÍ PARA ABRIR EN GOOGLE COLAB</a>
 
 *(Click the button above to open and run the code directly in Google Colab)*
