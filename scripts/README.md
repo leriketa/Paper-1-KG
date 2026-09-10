@@ -17,6 +17,6 @@ Because GitHub sometimes has trouble previewing interactive charts and widgets (
   <a href="https://google.com" target="_blank"> CLIC AQUÍ PARA ABRIR EN GOOGLE COLAB</a>
 
 * 📑 <b>Climate adaption corpora fusioned:</b> 
-  <a href="https://google.com" target="_blank"> CLIC AQUÍ PARA ABRIR EN GOOGLE COLAB</a>
+  <a href="(https://colab.research.google.com/drive/1LEQwtB_wvAuMhV4sNJfMtT9tSATsBHUx)" target="_blank"> CLIC AQUÍ PARA ABRIR EN GOOGLE COLAB</a>
 
 *(Click the button above to open and run the code directly in Google Colab)*
