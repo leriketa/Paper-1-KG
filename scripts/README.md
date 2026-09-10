@@ -11,7 +11,7 @@ Because GitHub sometimes has trouble previewing interactive charts and widgets (
 
 
 * 📊 <b>IPCC corpora:</b> 
-  <a href="https://google.com" target="_blank">CLIC AQUÍ PARA ABRIR EN GOOGLE COLAB</a>
+  <a href="[https://google.com](https://colab.research.google.com/drive/1LEQwtB_wvAuMhV4sNJfMtT9tSATsBHUx)" target="_blank">CLIC AQUÍ PARA ABRIR EN GOOGLE COLAB</a>
 
 * 📈 <b>Corpora of UNDRR added:</b> 
   <a href="https://google.com" target="_blank"> CLIC AQUÍ PARA ABRIR EN GOOGLE COLAB</a>
