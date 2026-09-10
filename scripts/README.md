@@ -11,8 +11,10 @@ This directory contains the main code notebooks used for the development and ana
 Because GitHub sometimes has trouble previewing interactive charts and widgets (displaying the *Invalid Notebook* error), we recommend opening the file directly in the cloud:
 
 
-[Extraction of corpora from IPCC]([https://colab.research.google.com/drive/1LEQwtB_wvAuMhV4sNJfMtT9tSATsBHUx](https://colab.research.google.com/drive/1kUisB2FuhrKxfFjOZBilsDgzuL1LBeBM))
-[Extraction of corpora adding the UNDRR source]([https://colab.research.google.com/drive/1LEQwtB_wvAuMhV4sNJfMtT9tSATsBHUx](https://colab.research.google.com/drive/1t3fQEmdCMkOtzuZZqMDdHWHaORAWfsh1))
+[Extraction of corpora from IPCC]((https://colab.research.google.com/drive/1kUisB2FuhrKxfFjOZBilsDgzuL1LBeBM)
+
+[Extraction of corpora adding the UNDRR source]((https://colab.research.google.com/drive/1t3fQEmdCMkOtzuZZqMDdHWHaORAWfsh1)
+
 [Cliamte adaption corpora fusioned](https://colab.research.google.com/drive/1LEQwtB_wvAuMhV4sNJfMtT9tSATsBHUx)
 
 *(Click the button above to open and run the code directly in Google Colab)*
